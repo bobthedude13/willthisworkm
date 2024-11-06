@@ -15,7 +15,7 @@
     <!-- Header Section -->
     <header>
         <div class="logo">
-            <h1>Ultimate Gaming Hub</h1>
+            <h1>Bob the builder, vewy sus gemmes hehehe</h1>
         </div>
         <nav>
             <ul>
